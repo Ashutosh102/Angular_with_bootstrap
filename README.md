@@ -11,10 +11,6 @@ It comes with 6 filter colors for the sidebar (“black”, “azure”,”green
 
 Special thanks go to: Robert McIntosh for the notification system Chartist for the wonderful charts We are very excited to share this dashboard with you and we look forward to hearing your feedback!
 
-## Links:
-
-+ [Live Preview](https://demos.creative-tim.com/light-bootstrap-dashboard-angular2/dashboard)
-+ [Light Bootstrap Dashboard PRO Angular](https://www.creative-tim.com/product/light-bootstrap-dashboard-pro-angular2/?ref=lbd-angular-github) ($49)
 
 ## Quick Start:
 
@@ -155,16 +151,13 @@ Freebies: <https://www.creative-tim.com/products>
 Affiliate Program (earn money): <https://www.creative-tim.com/affiliates/new>
 
 Social Media:
+Twitter: <https://twitter.com/Ashutos56695774?s=09>
 
-Twitter: <https://twitter.com/CreativeTim>
+Facebook: <https://www.facebook.com/ashutosh.mohanty.58958>
 
-Facebook: <https://www.facebook.com/CreativeTim>
+Instagram: <https://www.instagram.com/ashutosh_mohanty_99_not_out/>
 
-Dribbble: <https://dribbble.com/creativetim>
-
-Google+: <https://plus.google.com/+CreativetimPage>
-
-Instagram: <https://instagram.com/creativetimofficial>
+[CHANGELOG]: ./CHANGELOG.md
 
 [CHANGELOG]: ./CHANGELOG.md
 
